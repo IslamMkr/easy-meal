@@ -5,7 +5,7 @@ import { Footer } from '../../components/Footer/Footer'
 export const Recipes = () => {
     return (
         <div>
-            <Header />
+            <Header active="recipes"/>
             We are recipes
             <Footer />
         </div>

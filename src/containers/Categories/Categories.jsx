@@ -5,7 +5,7 @@ import { Footer } from '../../components/Footer/Footer'
 export const Categories = () => {
     return (
         <div>
-            <Header />
+            <Header active="categories" />
             We are categories
             <Footer />
         </div>

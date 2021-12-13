@@ -5,7 +5,7 @@ import { Footer } from '../../components/Footer/Footer'
 export const Contact = () => {
     return (
         <div>
-            <Header />
+            <Header active="contact"/>
             We are contact
             <Footer />
         </div>
